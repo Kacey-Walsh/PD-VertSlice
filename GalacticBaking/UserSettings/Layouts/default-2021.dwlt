@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 56
+  controlID: 61
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 400
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 375
     height: 657
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 108
+  controlID: 62
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 109
+  controlID: 63
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -355,14 +355,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\User\Downloads\SpaceBakingGame-main (5)\SpaceBakingGame-main\GalacticBaking
+  m_LastProjectPath: E:\3. Game Production\Spring23-Game3\PD-VertSlice\GalacticBaking
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 65}
-    m_SelectedIDs: 84670000
-    m_LastClickedID: 26500
-    m_ExpandedIDs: 0000000046670000486700004a6700004c6700004e670000506700007e670000806700008467000000ca9a3b
+    scrollPos: {x: 0, y: 107}
+    m_SelectedIDs: 5e6e0000
+    m_LastClickedID: 28254
+    m_ExpandedIDs: 000000004e6e0000506e0000526e0000546e0000566e0000586e00005e6e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -390,7 +390,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000046670000486700004a6700004c6700004e67000050670000
+    m_ExpandedIDs: 000000004e6e0000506e0000526e0000546e0000566e0000586e00005a6e00005c6e00005e6e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,10 +517,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 18cff9ff6ccff9fff8f5f9fffef5f9ffce02faff7207faffea08faff3a09faffe62ffaffec2ffaffbc52faff0c53faffda63faffe063faffb499faff80b3faff2cb4faff6ac8fafff8dcfaffc404fbffd004fbff5c19fbffaa19fbff121dfbff241dfbff02fbffff9c640000c274000094750000be75000040b40100
+      scrollPos: {x: 0, y: 361}
+      m_SelectedIDs: e6640000
+      m_LastClickedID: 25830
+      m_ExpandedIDs: 02fbffffda6400001a650000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -802,9 +802,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 117.774796, y: -161.84961, z: 254.51929}
+    m_Target: {x: 273.36304, y: -88.05703, z: 53.818405}
     speed: 2
-    m_Value: {x: 117.774796, y: -161.84961, z: 254.51929}
+    m_Value: {x: 273.36304, y: -88.05703, z: 53.818405}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -843,7 +843,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 0
+        m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -851,13 +851,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.48644227, y: 0.104777366, z: -0.057557043, w: 0.8656813}
+    m_Target: {x: 0.49095678, y: -0.021624457, z: 0.013936453, w: 0.8710136}
     speed: 2
-    m_Value: {x: 0.4851508, y: 0.103547275, z: -0.056662828, w: 0.8664271}
+    m_Value: {x: 0.4883711, y: -0.012501812, z: 0.008741637, w: 0.8725026}
   m_Size:
-    m_Target: 217.74516
+    m_Target: 172.84958
     speed: 2
-    m_Value: 2.5883474
+    m_Value: 165.4063
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -875,7 +875,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.0146892, y: -0.0063881753, z: -0.0004061256, w: -0.9999895}
+  m_LastSceneViewRotation: {x: 0.00000009090992, y: -0.9937429, z: -0.11195843, w: -0.0005819105}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
